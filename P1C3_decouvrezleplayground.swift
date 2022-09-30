@@ -1,0 +1,7 @@
+canvas.moveBusForward()
+canvas.moveBusForward()
+canvas.moveBusForward()
+canvas.stopBus()
+canvas.moveBusForward()
+canvas.moveBusForward()
+canva.stopBus()
